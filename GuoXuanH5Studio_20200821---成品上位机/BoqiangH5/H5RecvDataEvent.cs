@@ -14,7 +14,6 @@ namespace BoqiangH5
     public interface IHandleRecvDataEvent
     {
         void HandleRecvBmsInfoDataEvent(object sender, CustomRecvDataEventArgs e);
-
     }
 
     public partial class MainWindow : Window

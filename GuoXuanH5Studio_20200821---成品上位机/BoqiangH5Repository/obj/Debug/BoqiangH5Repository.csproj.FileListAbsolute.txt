@@ -192,3 +192,12 @@ G:\博强\测试上位机\GuoXuanH5Studio_20200821---成品上位机\BoqiangH5Re
 G:\博强\测试上位机\GuoXuanH5Studio_20200821---成品上位机\BoqiangH5Repository\obj\Debug\BoqiangH5Repository.csproj.CopyComplete
 G:\博强\测试上位机\GuoXuanH5Studio_20200821---成品上位机\BoqiangH5Repository\obj\Debug\BoqiangH5Repository.dll
 G:\博强\测试上位机\GuoXuanH5Studio_20200821---成品上位机\BoqiangH5Repository\obj\Debug\BoqiangH5Repository.pdb
+D:\BQ\V2-H5_ChengPin\GuoXuanH5Studio_20200821---成品上位机\BoqiangH5Repository\bin\Debug\BoqiangH5Repository.dll
+D:\BQ\V2-H5_ChengPin\GuoXuanH5Studio_20200821---成品上位机\BoqiangH5Repository\bin\Debug\BoqiangH5Repository.pdb
+D:\BQ\V2-H5_ChengPin\GuoXuanH5Studio_20200821---成品上位机\BoqiangH5Repository\bin\Debug\BoqiangH5Entity.dll
+D:\BQ\V2-H5_ChengPin\GuoXuanH5Studio_20200821---成品上位机\BoqiangH5Repository\bin\Debug\BoqiangH5Entity.pdb
+D:\BQ\V2-H5_ChengPin\GuoXuanH5Studio_20200821---成品上位机\BoqiangH5Repository\obj\Debug\BoqiangH5Repository.csprojAssemblyReference.cache
+D:\BQ\V2-H5_ChengPin\GuoXuanH5Studio_20200821---成品上位机\BoqiangH5Repository\obj\Debug\BoqiangH5Repository.csproj.CoreCompileInputs.cache
+D:\BQ\V2-H5_ChengPin\GuoXuanH5Studio_20200821---成品上位机\BoqiangH5Repository\obj\Debug\BoqiangH5Repository.csproj.CopyComplete
+D:\BQ\V2-H5_ChengPin\GuoXuanH5Studio_20200821---成品上位机\BoqiangH5Repository\obj\Debug\BoqiangH5Repository.dll
+D:\BQ\V2-H5_ChengPin\GuoXuanH5Studio_20200821---成品上位机\BoqiangH5Repository\obj\Debug\BoqiangH5Repository.pdb
